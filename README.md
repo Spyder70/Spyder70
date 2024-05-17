@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
 <h3 align="center" style="font-size: 24px;">A passionate Web developer <img src="" alt="Live Icon" style="width: 20px; height: 20px;"></h3>
