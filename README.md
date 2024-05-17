@@ -1,7 +1,7 @@
 [![MasterHead](https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
-<h3 align="center" style="font-size: 24px;">A passionate Web developer <img src="" alt="Live Icon" style="width: 20px; height: 20px;"></h3>
+<h3 align="center" style="font-size: 24px;">A passionate Web developer <img src="https://assets.materialup.com/uploads/1bc193c9-ff36-403a-bd51-dfcc57e1c4aa/preview.gif" alt="Live Icon" style="width: 40px; height: 40px;"></h3>
 
 <img align="right" alt="Coding" width="400" height="270" src="https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif">
 
