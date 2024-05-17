@@ -83,7 +83,9 @@
 
 <h2 align="center">GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spyder70&show_icons=true&locale=en" alt="spyder70" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spyder70&" alt="spyder70" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spyder70&show_icons=true&locale=en" alt="spyder70" style="margin-right: 20px;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spyder70&" alt="spyder70" style="margin-left: 20px;" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder70&show_icons=true&locale=en&layout=compact" alt="spyder70" />
 </p>
