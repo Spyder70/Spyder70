@@ -9,7 +9,7 @@
 - 💬 Ask me about **React,Node Js,Express,Mysql,Figma**
 
 - 📫 How to reach me **olwindsouza2000@gmail.com**
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/olwin dsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olwin dsouza" height="30" width="40" /></a>
