@@ -87,5 +87,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spyder70&" alt="spyder70" style="margin-left: 20px;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder70&show_icons=true&locale=en&layout=compact" alt="spyder70" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder70&show_icons=true&locale=en&layout=compact" alt="spyder70" width="800" />
 </p>
