@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://olwin-dsouza.netlify.app/](https://olwin-dsouza.netlify.app/)
 
-- 💬 Ask me about **React,Node Js,Express Js,Mysql,Figma**
+- 💬 Ask me about **React,Node Js,Express Js,Mysql**
 
 - 📫 How to reach me **olwindsouza2000@gmail.com**
   
