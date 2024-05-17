@@ -1,4 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif)](https://rishavchanda.io)
+<div style="display: flex; justify-content: center;">
+    <a href="https://rishavchanda.io">
+        <img src="https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif" alt="MasterHead" />
+    </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
 <h3 align="center" style="font-size: 24px;">A passionate Web developer <img src="" alt="Live Icon" style="width: 20px; height: 20px;"></h3>
 
