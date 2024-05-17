@@ -1,4 +1,4 @@
-[![MasterHead](https://backiee.com/static/wallpapers/1000x563/386745.jpg)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif">
