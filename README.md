@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/89/42/df/8942df7d755d4392d46d815f7fe379d9.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
 <h3 align="center" style="font-size: 24px;">A passionate Web developer <img src="" alt="Live Icon" style="width: 20px; height: 20px;"></h3>
 
