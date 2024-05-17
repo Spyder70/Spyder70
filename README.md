@@ -1,6 +1,7 @@
 [![MasterHead](https://backiee.com/static/wallpapers/1000x563/386745.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center" style="font-size: 24px;">A passionate Web developer <img src="https://example.com/live-icon.png" alt="Live Icon" style="width: 20px; height: 20px;"></h3>
+
 <img align="right" alt="Coding" width="400" height="270" src="https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyder70&label=Profile%20views&color=0e75b6&style=flat" alt="spyder70" /> </p>
