@@ -1,7 +1,19 @@
 [![MasterHead](https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
-<h3 align="center" style="font-size: 28px; color: #333; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); transition: transform 0.3s ease;">A passionate Web developer</h3>
+  <style>
+    @keyframes neon {
+      0% { color: #fff; text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #0ff, 0 0 70px #0ff, 0 0 80px #0ff, 0 0 100px #0ff, 0 0 150px #0ff; }
+      50% { color: #0ff; text-shadow: none; }
+      100% { color: #fff; text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #0ff, 0 0 70px #0ff, 0 0 80px #0ff, 0 0 100px #0ff, 0 0 150px #0ff; }
+    }
+    h2 {
+      font-size: 36px;
+      text-align: center;
+      animation: neon 3s infinite;
+    }
+  </style>
+<h2>A passionate Web developer</h3>
 
 <img align="right" alt="Coding" width="400" height="270" src="https://miro.medium.com/v2/resize:fit:1200/1*frJJ8v0uWOmtbdYO-JKXGw.gif">
 
