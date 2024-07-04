@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)](https://rishavchanda.io)
+<center>[![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)](https://rishavchanda.io) </center>
 
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
 <h2 align="center">A passionate Web developer</h2>
