@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Flenguasextranjerastec.cdserdan.tecnm.mx%2F%3Fe%3Dcreate-vector-illustrations-animated-gif-according-to-your-need-ss-Ma5WbgIQ&psig=AOvVaw0WZFt3LeJtbRAS92sHMmWn&ust=1720142880638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi7juGdjIcDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
+[![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Olwin Dsouza</h1>
 <h2 align="center">A passionate Web developer</h2>
